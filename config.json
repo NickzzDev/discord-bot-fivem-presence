@@ -1,0 +1,7 @@
+{
+    "token": "token_goes_here
+    "prefix": ".",
+    "SERVER_IP": "Server_IP_goes_here",
+    "SERVER_PORT": "Server_PORT_goes_here",
+    "color": "0x06F7C7"
+}
